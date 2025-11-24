@@ -9,3 +9,4 @@ for i in range(8):
 
 print(numbers)
 
+# get input from user and print unique numbers

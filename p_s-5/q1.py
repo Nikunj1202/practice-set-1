@@ -8,3 +8,4 @@ words = {
 }
 word = input("enter word to get english meaning: ")
 print(words[word])
+# entered words available in dict get the thats keys value 
